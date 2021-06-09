@@ -1,0 +1,1 @@
+当本地调试多个API，并且API CORS设置有问题时，可以使用 gateway 做中转
